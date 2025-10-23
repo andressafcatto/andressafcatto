@@ -1,6 +1,6 @@
 # # 👩🏻‍💻 Andressa Fioravante Catto
 
-**`Analista de Dados`**
+**`Business Intelligence`**
 
 Sou Analista de Dados e acredito no poder da informação para transformar decisões em resultados concretos. Minha trajetória na área começou em 2021, quando tive meu primeiro contato com o Power BI, desenvolvendo indicadores e relatórios automatizados. Desde então, sigo aprofundando meus conhecimentos em análise, modelagem e visualização de dados, sempre com o propósito de conectar a técnica ao impacto real nos negócios.
 Formada em Engenharia de Produção, desenvolvi uma visão analítica e estruturada, que me ajuda a compreender os desafios sob diferentes perspectivas e propor soluções assertivas. Gosto de atuar de forma colaborativa, explorando dados para contar histórias que orientem decisões e melhorem processos.
