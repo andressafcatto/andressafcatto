@@ -1,16 +1,24 @@
-## Hi there 👋
+# # 👩🏻‍💻 Andressa Fioravante Catto
 
-<!--
-**andressafcatto/andressafcatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Sou Analista de Dados e acredito no poder da informação para transformar decisões em resultados concretos. Minha trajetória na área começou em 2021, quando tive meu primeiro contato com o Power BI, desenvolvendo indicadores e relatórios automatizados. Desde então, sigo aprofundando meus conhecimentos em análise, modelagem e visualização de dados, sempre com o propósito de conectar a técnica ao impacto real nos negócios.
+Formada em Engenharia de Produção, desenvolvi uma visão analítica e estruturada, que me ajuda a compreender os desafios sob diferentes perspectivas e propor soluções assertivas. Gosto de atuar de forma colaborativa, explorando dados para contar histórias que orientem decisões e melhorem processos.
+Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em ambientes de dados em nuvem e escalabilidade de análises. Tenho curiosidade como combustível e aprendizado contínuo como filosofia — acredito que evoluir é essencial para gerar valor em um mundo guiado por dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/andressa-catto-48aab6189/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/andressafcatto">
+        <img 
+            alt="GitHub" 
+            title="Siga meu perfil no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/andressafcatto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
