@@ -6,7 +6,7 @@ Sou Analista de Dados e acredito no poder da informação para transformar decis
 Formada em Engenharia de Produção, desenvolvi uma visão analítica e estruturada, que me ajuda a compreender os desafios sob diferentes perspectivas e propor soluções assertivas. Gosto de atuar de forma colaborativa, explorando dados para contar histórias que orientem decisões e melhorem processos.
 Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em ambientes de dados em nuvem e escalabilidade de análises. Tenho curiosidade como combustível e aprendizado contínuo como filosofia — acredito que evoluir é essencial para gerar valor em um mundo guiado por dados.
 
-p align="left">
+<p align="left">
     <a href="https://www.linkedin.com/in/andressa-catto-48aab6189/">
         <img 
             alt="LinkedIn" 
