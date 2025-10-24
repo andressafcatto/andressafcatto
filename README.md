@@ -41,8 +41,6 @@ Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em 
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 <!-- Python -->
 <img 
     align="left" 
@@ -115,105 +113,6 @@ Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em 
 
 <br/>
 <br/>
-💡 Dica:
-
-Copie tudo e cole no seu README.md do GitHub.
-
-Se algum ícone ficar muito grande, dá pra ajustar o width="40px" (por exemplo, 35px pra igualar visualmente).
-
-Todos esses links são diretos da Wikimedia ou do Devicon, então renderizam bem no GitHub.
-
-Se quiser, posso montar uma versão com todos esses ícones alinhados em estilo grade, tipo uma “vitrine visual” das tuas ferramentas. Quer que eu faça assim também?
 
 
-
-
-
-
-
-Você disse:
-sim, so o icone do powerpoint não apareceu
-
-
-O ChatGPT disse:
-Perfeito, Andressa 💪✨
-isso acontece porque o GitHub às vezes bloqueia alguns links diretos da Wikipédia (SVGs mais novos).
-Vou te mandar agora a versão 100% compatível com GitHub — todos os ícones aparecem certinho, e o layout fica tipo “vitrine” (em grade).
-
-Aqui está o código ajustado:
-
-markdown
-Copiar código
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-
-<!-- Python -->
-<img 
-    alt="Python" 
-    title="Python"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<!-- SQL -->
-<img 
-    alt="SQL" 
-    title="SQL"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<!-- Power BI -->
-<img 
-    alt="Power BI" 
-    title="Power BI"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
-
-<!-- Excel -->
-<img 
-    alt="Excel" 
-    title="Excel"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
-/>
-
-<!-- PowerPoint -->
-<img 
-    alt="PowerPoint" 
-    title="PowerPoint"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" 
-/>
-
-<!-- AWS -->
-<img 
-    alt="AWS"
-    title="AWS"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-
-<!-- Databricks -->
-<img 
-    alt="Databricks"
-    title="Databricks"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
-/>
-
-</p>
-/>
-
-<br/>
-<br/>
 
