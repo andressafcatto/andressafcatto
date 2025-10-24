@@ -41,78 +41,73 @@ Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em 
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="left">
+
 <!-- Python -->
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="45px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <!-- SQL -->
 <img 
-    align="left" 
     alt="SQL" 
     title="SQL"
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="45px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <!-- Power BI -->
 <img 
-    align="left" 
     alt="Power BI" 
     title="Power BI"
-    width="40px" 
-    style="padding-right: 10px;" 
+    width="45px" 
+    style="padding-right: 15px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 
 <!-- Excel -->
 <img 
-    align="left" 
     alt="Excel" 
     title="Excel"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" 
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
+/>
+
+<!-- PowerPoint -->
+<img 
+    alt="PowerPoint" 
+    title="PowerPoint"
+    width="45px" 
+    style="padding-right: 15px;" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" 
 />
 
 <!-- AWS -->
 <img 
-    align="left" 
     alt="AWS"
     title="AWS"
-    width="45px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 
 <!-- Databricks -->
 <img 
-    align="left" 
     alt="Databricks"
     title="Databricks"
-    width="45px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 15px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
 />
 
-<!-- PowerPoint -->
-<img 
-    align="left" 
-    alt="PowerPoint"
-    title="PowerPoint"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" 
-/>
+</p>
 
-<br/>
-<br/>
 
 
 
