@@ -41,71 +41,69 @@ Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em 
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
+<p align="center">
+  <!-- Python -->
+  <img 
+      alt="Python" 
+      title="Python"
+      width="45px" 
+      style="padding-right: 15px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
 
-<!-- Python -->
-<img 
-    alt="Python" 
-    title="Python"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+  <!-- SQL -->
+  <img 
+      alt="SQL" 
+      title="SQL"
+      width="45px" 
+      style="padding-right: 15px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  />
 
-<!-- SQL -->
-<img 
-    alt="SQL" 
-    title="SQL"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+  <!-- Power BI -->
+  <img 
+      alt="Power BI" 
+      title="Power BI"
+      width="45px" 
+      style="padding-right: 15px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+  />
 
-<!-- Power BI -->
-<img 
-    alt="Power BI" 
-    title="Power BI"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-/>
+  <!-- Excel -->
+  <img 
+      alt="Excel" 
+      title="Excel"
+      width="45px" 
+      style="padding-right: 15px;" 
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
+  />
 
-<!-- Excel -->
-<img 
-    alt="Excel" 
-    title="Excel"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
-/>
+  <!-- PowerPoint -->
+  <img 
+      alt="PowerPoint" 
+      title="PowerPoint"
+      width="45px" 
+      style="padding-right: 15px;" 
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" 
+  />
 
-<!-- PowerPoint -->
-<img 
-    alt="PowerPoint" 
-    title="PowerPoint"
-    width="45px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" 
-/>
+  <!-- AWS -->
+  <img 
+      alt="AWS"
+      title="AWS"
+      width="50px" 
+      style="padding-right: 15px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  />
 
-<!-- AWS -->
-<img 
-    alt="AWS"
-    title="AWS"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-
-<!-- Databricks -->
-<img 
-    alt="Databricks"
-    title="Databricks"
-    width="50px" 
-    style="padding-right: 15px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
-/>
-
+  <!-- Databricks -->
+  <img 
+      alt="Databricks"
+      title="Databricks"
+      width="50px" 
+      style="padding-right: 15px;" 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
+  />
 </p>
 
 
