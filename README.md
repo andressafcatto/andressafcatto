@@ -41,71 +41,37 @@ Atualmente, estou ampliando meus conhecimentos em Databricks e AWS, com foco em 
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <!-- Python -->
-  <img 
-      alt="Python" 
-      title="Python"
-      width="45px" 
-      style="padding-right: 15px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-
-  <!-- SQL -->
-  <img 
-      alt="SQL" 
-      title="SQL"
-      width="45px" 
-      style="padding-right: 15px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-  />
-
-  <!-- Power BI -->
-  <img 
-      alt="Power BI" 
-      title="Power BI"
-      width="45px" 
-      style="padding-right: 15px;" 
-      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-  />
-
-  <!-- Excel -->
-  <img 
-      alt="Excel" 
-      title="Excel"
-      width="45px" 
-      style="padding-right: 15px;" 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
-  />
-
-  <!-- PowerPoint -->
-  <img 
-      alt="PowerPoint" 
-      title="PowerPoint"
-      width="45px" 
-      style="padding-right: 15px;" 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" 
-  />
-
-  <!-- AWS -->
-  <img 
-      alt="AWS"
-      title="AWS"
-      width="50px" 
-      style="padding-right: 15px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  />
-
-  <!-- Databricks -->
-  <img 
-      alt="Databricks"
-      title="Databricks"
-      width="50px" 
-      style="padding-right: 15px;" 
-      src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" 
-  />
-</p>
-
-
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" /><br/>
+      Python
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50px" /><br/>
+      SQL
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50px" /><br/>
+      Power BI
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="50px" /><br/>
+      Excel
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg" width="50px" /><br/>
+      PowerPoint
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" /><br/>
+      AWS
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50px" /><br/>
+      Databricks
+    </td>
+  </tr>
+</table>
 
 
